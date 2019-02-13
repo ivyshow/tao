@@ -1,4 +1,4 @@
-# 使用教程与下载
+# 客户端安装使用
 
 * Windows
   * [V2RayN ](win/v2rayn.md)
