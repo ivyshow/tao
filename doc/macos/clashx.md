@@ -2,7 +2,7 @@
 description: 我们对本客户端提供「优先」支持
 ---
 
-# ClashX（推荐）
+# ClashX
 
 * `系统要求：macOS 10.5 及以上`
 * `设备要求：MacBook / iMac / Mac Pro`

@@ -2,7 +2,7 @@
 description: 我们对本客户端提供「优先」支持
 ---
 
-# V2RayN（推荐）
+# V2RayN
 
 * `系统要求：Windows XP 及以上（64-bit）`
 

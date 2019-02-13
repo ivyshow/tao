@@ -2,7 +2,7 @@
 description: 我们对本客户端提供「优先」支持
 ---
 
-# V2RayNG（推荐）
+# V2RayNG
 
 ## 介绍
 

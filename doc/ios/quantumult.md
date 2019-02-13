@@ -2,14 +2,14 @@
 description: 我们对本客户端提供「优先」支持
 ---
 
-# Quantumult（推荐）
+# Quantumult
 
 * `系统要求：iOS 9 及以上`
 * `设备要求：iPhone / iPad`
 * `此应用已在国区下架，请使用非国区 Apple ID 下载。`
 * `我们为绑定非国区支付方式困难的订阅客户准备了下载帐户，如需要请在网站内开服务单索取`
 
-## 介绍    <a id="jie-shao"></a>
+## 介绍     <a id="jie-shao"></a>
 
 Quantumult是目前iOS上支持最好的客户端，支持订阅功能，但设置略复杂
 

@@ -2,7 +2,7 @@
 description: 我们对本客户端提供「优先」支持
 ---
 
-# ShadowRocket（推荐）
+# ShadowRocket
 
 * `系统要求：iOS 9 及以上`
 * `设备要求：iPhone / iPad`
