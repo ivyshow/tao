@@ -11,8 +11,4 @@
   * [iOS](doc/ios/README.md)
     * [ShadowRocket](doc/ios/shadowrocket.md)
     * [Quantumult](doc/ios/quantumult.md)
-* [进阶教程与下载](pro/README.md)
-  * [Windows](pro/windows/README.md)
-    * [SwitchyOmega浏览器插件](pro/windows/switchyomega.md)
-    * [SS-Tap（游戏/全局）](pro/windows/sstap.md)
 
