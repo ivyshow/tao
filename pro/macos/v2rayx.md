@@ -11,7 +11,7 @@ V2RayX 是一个适用于V2Ray-Core的开源视图化Mac客户端。支持V2Ray�
 
 版本:1.5 \| 更新日期: 2018-12-27
 
-[本地下载](https://xn--rut069fptl.club/dl.php?type=d&id=12) \| [官方下载](https://github.com/Cenmrev/V2RayX/releases/download/v1.5.0/V2RayX.app.zip)
+[本地下载](https://ivynet.fun/dl.php?type=d&id=12) \| [官方下载](https://github.com/Cenmrev/V2RayX/releases/download/v1.5.0/V2RayX.app.zip)
 
 ## 使用
 
@@ -31,7 +31,7 @@ V2RayX 是一个适用于V2Ray-Core的开源视图化Mac客户端。支持V2Ray�
 
 ![](../../.gitbook/assets/image-58.png)
 
-* 打开网站用户面板，根据网站提供参数填写基本配置，网站没有标注的地方使用默认值。填写完成后，点开transport setting
+* 打开网站用户面板，根据网站提供参数填写基配置，网站没有标注的地方使用默认值。填写完成后，点开transport setting
 
 ![](../../.gitbook/assets/image-31.png)
 

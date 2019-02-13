@@ -12,11 +12,11 @@ V2RayNG是一款适用于常青藤的开源Android客户端，支持订阅功能
 
 版本:0.6.7 \| 更新日期: 2018-12-25
 
-[本地下载](https://xn--rut069fptl.club/dl.php?type=d&id=14) \| [官方下载](https://github.com/2dust/v2rayNG/releases/download/0.6.7/app-universal-release.apk) \| [PlayStore下载](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+[本地下载](https://ivynet.fun/dl.php?type=d&id=14) \| [官方下载](https://github.com/2dust/v2rayNG/releases/download/0.6.7/app-universal-release.apk) \| [PlayStore下载](https://play.google.com/store/apps/details?id=com.v2ray.ang)
 
 ## 使用
 
-* 手机浏览器打开 [常青藤用户中心](https://xn--rut069fptl.club/clientarea.php) ，点击已订阅套餐（左上三横线-我的服务，或直接在首页点击产品服务），在套餐详情中点击 **通用订阅链** ，订阅信息会自动复制进剪贴板
+* 手机浏览器打开 [常青藤用户中心](https://ivynet.fun/clientarea.php) ，点击已订阅套餐（左上三横线-我的服务，或直接在首页点击产品服务），在套餐详情中点击 **通用订阅链** ，订阅信息会自动复制进剪贴板
 
 ![](../../.gitbook/assets/image-25.png)
 
@@ -26,7 +26,7 @@ V2RayNG是一款适用于常青藤的开源Android客户端，支持订阅功能
 
 ![](../../.gitbook/assets/image-49%20%281%29.png)
 
-* 打开刚安装好的V2RayNG，点击**左上三横线** 小图标 ，在弹出的窗口中，选择订阅设置
+* 打开刚安装好的V2RayNG，点击**左上三横线** 小标 ，在弹出的窗口中，选择订阅设置
 
 ![](../../.gitbook/assets/image-21.png)
 
@@ -52,7 +52,7 @@ V2RayNG是一款适用于常青藤的开源Android客户端，支持订阅功能
 
 ![](../../.gitbook/assets/image-42.png)
 
-* 如果开启v2rayNG后，无法访问Google Play Store，那么需要在**自定义路由**里代理的网址或IP里填入services.googleapis.cn并保存
+* 如果开启v2rayNG后，无法访问Google Play Store，那么需要在**自定路由**里代理的网址或IP里填入services.googleapis.cn并保存
 
 ![](../../.gitbook/assets/image-52.png)
 

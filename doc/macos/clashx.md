@@ -15,7 +15,7 @@ ClashX是个适用于V2Ray的图形化客户端，内核Clash整合了V2Ray，�
 
 版本:v1.8.1 \| 更新日期: 2018-12-23
 
-[本地下载](https://xn--rut069fptl.club/dl.php?type=d&id=13) \| [官方下载](https://github.com/yichengchen/clashX/releases/download/1.8.1/ClashX.dmg)
+[本地下载](https://ivynet.fun/dl.php?type=d&id=13) \| [官方下载](https://github.com/yichengchen/clashX/releases/download/1.8.1/ClashX.dmg)
 
 ## 运行
 
@@ -25,13 +25,13 @@ ClashX是个适用于V2Ray的图形化客户端，内核Clash整合了V2Ray，�
 
 ## 配置订阅并开启ClashX
 
-* 进入您的[产品中心](https://xn--rut069fptl.club/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**Clash订阅链。**
+* 进入您的[产品中心](https://ivynet.fun/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**Clash订阅链。**
 
 ![](../../.gitbook/assets/image-22.png)
 
 ![](../../.gitbook/assets/image-1%20%281%29.png)
 
-* 打开ClashX，点击顶部菜单栏ClashX图标，配置 - 托管配置 - 设置地址
+* 打ClashX，点击顶部菜单栏ClashX图标，配置 - 托管配置 - 设置地址
 
 ![](../../.gitbook/assets/image-26%20%281%29.png)
 

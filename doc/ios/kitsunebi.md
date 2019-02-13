@@ -11,7 +11,7 @@ Kitsunebi是专门为V2Ray设计的代理工具，目前在iOS上对V2Ray协议�
 
 ## 服务器订阅
 
-* 手机浏览器打开 [常青藤用户中心](https://xn--rut069fptl.club/clientarea.php) ，点击已订阅套餐（左上三横线-我的服务，或直接在首页点击产品服务），在套餐详情中点击 **通用订阅链** ，订阅信息会自动复制进剪贴板
+* 手机浏览器打开 [常青藤用户中心](https://ivynet.fun/clientarea.php) ，点击已订阅套餐（左上三横线-我的服务，或直接在首页点击产品服务），在套餐详情中点击 **通用订阅链** ，订阅信息会自动复制进剪贴板
 
 ![](../../.gitbook/assets/image-25.png)
 
@@ -21,7 +21,7 @@ Kitsunebi是专门为V2Ray设计的代理工具，目前在iOS上对V2Ray协议�
 
 ![](../../.gitbook/assets/image-49%20%281%29.png)
 
-* 首次打开Kitsunebi，系统会提示配置VPN，允许后需要使用指纹/Face ID/密码 确认
+* 首次打开Kitsunebi，系统会提示配置VPN，允许后要使用指纹/Face ID/密码 确认
 
 ![](../../.gitbook/assets/image-51.png)
 

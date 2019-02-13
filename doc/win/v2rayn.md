@@ -14,7 +14,7 @@ V2RayN 是一个适用于V2Ray-Core的开源视图化客户端，支持订阅。
 
 版本:2.20 \| 更新日期: 2018-12-27
 
-[本地下载](https://xn--rut069fptl.club/dl.php?type=d&id=11) \| [官](https://github.com/2dust/v2rayN/releases/download/2.20/v2rayN-Core.zip)[方下载](https://github.com/2dust/v2rayN/releases/download/2.20/v2rayN-Core.zip)
+[本地下载](https://ivynet.fun/dl.php?type=d&id=11) \| [官](https://github.com/2dust/v2rayN/releases/download/2.20/v2rayN-Core.zip)[方下载](https://github.com/2dust/v2rayN/releases/download/2.20/v2rayN-Core.zip)
 
 ## 运行
 
@@ -24,7 +24,7 @@ V2RayN 是一个适用于V2Ray-Core的开源视图化客户端，支持订阅。
 
 ## 配置订阅
 
-1.进入您的[产品中心](https://xn--rut069fptl.club/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**通用订阅链。**
+1.进入您的[产品中心](https://ivynet.fun/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**通用订阅链。**
 
 ![](../../.gitbook/assets/image-13.png)
 
@@ -59,7 +59,7 @@ V2RayN 是一个适用于V2Ray-Core的开源视图化客户端，支持订阅。
 * 右键点击右下角V2RayN小图标，启动HTTP代理，并且在模式中选择以下：
   * 全局模式：所有的网站/程序HTTP流量都将通过V2RayN
   * PAC模式：根据规则匹配，只有PAC列表内网站会通过V2RayN
-  * 直连模式：仅开启HTTP代理，不设置系统代理，您可以通过其他工具，如SwithyOmega浏览器插件，来配置流量转发
+  * 直连模式：仅开启HTTP代理，不设置统代理，您可以通过其他工具，如SwithyOmega浏览器插件，来配置流量转发
   * 仅开启PAC：不推荐
 
 ![](../../.gitbook/assets/image-17.png)

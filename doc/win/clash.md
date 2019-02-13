@@ -16,21 +16,21 @@ Clash For Win是个适用于V2Ray的图形化客户端，内核Clash整合了V2R
 
 绿色解压版
 
-[本地下载](https://xn--rut069fptl.club/dl.php?type=d&id=10) \| [官方下载](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.5.13/Clash.for.Windows-0.5.13-win.zip)
+[本地下载](https://ivynet.fun/dl.php?type=d&id=10) \| [官方下载](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.5.13/Clash.for.Windows-0.5.13-win.zip)
 
 安装版
 
-[本地下载](https://xn--rut069fptl.club/dl.php?type=d&id=9) \| [官方下载](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.5.13/Clash.for.Windows.Setup.0.5.13.exe)
+[本地下载](https://ivynet.fun/dl.php?type=d&id=9) \| [官方下载](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.5.13/Clash.for.Windows.Setup.0.5.13.exe)
 
 ## 运行
 
 * 将您下载的压缩包解压到任意目录，建议放在非系统盘的目录里，避免带来权限问题。
 * 运行其中的 `Clash for Windows.exe`
-* Windows 10 第一次运行可能会提示被阻止，点击「更多信息」 - 「仍要运行」
+* Windows 10 第一次运行可能会提示被阻止，点击更多信息」 - 「仍要运行」
 
 ## 配置订阅并开启Clash
 
-* 进入您的[产品中心](https://xn--rut069fptl.club/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**Clash订阅链。**
+* 进入您的[产品中心](https://ivynet.fun/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**Clash订阅链。**
 
 ![](../../.gitbook/assets/image-14.png)
 
@@ -48,7 +48,7 @@ Clash For Win是个适用于V2Ray的图形化客户端，内核Clash整合了V2R
 * 点击Proxies，能看到所有节点已经导入，点击卡片选择节点，并且在模式中选择：
   * 全局模式：所有流量都经过加速服务器
   * 规则模式：只有海外流量会经过加速服务器，并且包含了部分去广告去隐私跟踪规则
-  * 直连模式：所有流量都不经过加速服务器
+  * 直连模：所有流量都不经过加速服务器
 * 规则模式规则已整合在订阅中，使用的是目前效果较好的lhie1规则，每7天服务器会自动更新一次。感谢lhie1大佬维护
 
 ![](../../.gitbook/assets/image-2.png)
