@@ -13,6 +13,14 @@ description: 我们对本客户端提供「优先」支持
 
 Quantumult是目前iOS上支持最好的客户端，支持订阅功能，但设置略复杂
 
+## 下载
+
+版本:  2.2.9 
+
+[在线安装](https://gogoyun.xyz/quantumult/index.html)
+
+请使用iPhone/iPad自带浏览器Safari打开在线安装链接，安装完毕后第一次登录会需要输入AppStore密码，为防止滥用我们未公布该密码，请向客服索取
+
 ## 服务器订阅
 
 * 手机浏览器打开 [常青藤用户中心](https://ivynet.fun/clientarea.php) ，点击已订阅套餐，在套餐详情中点击**Quantumult 专用链**，订阅信息会自动复制进剪贴板

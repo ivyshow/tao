@@ -2,6 +2,7 @@
 
 * [常青藤用户指南](README.md)
 * [注册与购买流程](zhu-ce-liu-cheng-yi-ji-fu-wu-gou-mai.md)
+* [续费流程](xu-fei-liu-cheng.md)
 * [客户端安装使用](app/README.md)
   * [Windows](app/win/README.md)
     * [V2RayN](app/win/v2rayn.md)

@@ -17,6 +17,14 @@ ShadowRocket俗称小火箭，是一款iOS上非常受欢迎的代理工具
 
 ![](../../.gitbook/assets/image-65.png)
 
+## 下载
+
+版本:  2.1.23 
+
+[在线安装](https://gogoyun.xyz/shadowrocket/index.html)
+
+请使用iPhone/iPad自带浏览器Safari打开在线安装链接，安装完毕后第一次登录会需要输入AppStore密码，为防止滥用我们未公布该密码，请向客服索取
+
 ## 服务器订阅
 
 * 手机浏览器打开 [常青藤用户中心](https://ivynet.fun/clientarea.php) ，点击已订阅套餐（左上三横线-我的服务，或直接在首页点击产品服务），在套餐详情中点击 **通用订阅链** ，订阅信息会自动复制进剪贴板
